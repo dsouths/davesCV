@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: #1c4a6c;
 }
 
 .bg-color-three-reasons {
@@ -52,7 +52,7 @@
 
 
 .ui-menu-color-github {
-    background-color: #1c4a6c;
+    background-color: #525252;
 }
 
 .ui-menu-color-interests {
@@ -65,7 +65,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    background-color: #525252;
+    background-color: #1c4a6c;
     color: #555555;
 }
 
@@ -101,9 +101,9 @@ h4 {
 .history-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
-    font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
+    font-weight: bold;
 }
 
 
@@ -131,7 +131,6 @@ header {
 
 .name {
     font-family: "Exo", sans-serif;
-    font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
     color: #ffffff;
@@ -198,7 +197,7 @@ header {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: #525252;
+    background-color: #1c4a6c;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
@@ -264,6 +263,7 @@ footer .cv-pdf i:hover {
     margin-bottom: 20px;
     display: block;
     clear: both;
+    font-size: x-large;
 }
 
 .personal-info-item .key,
@@ -274,6 +274,7 @@ footer .cv-pdf i:hover {
 .personal-info-item .key p,
 .personal-info-item .value p {
     margin: 0;
+    font-size: x-large;
 }
 
 .personal-info-item .key {
